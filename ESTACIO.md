@@ -35,3 +35,7 @@ Confira o currículo a seguir e veja como funciona!
 - História dos Povos Indígenas e Afrodescendentes;
 - Museologia;
 - Patrimônio Histórico Brasileiro.
+
+---
+
+[Grade Curso de História](https://matriculas.estacio.br/graduacao/historia-segunda-licenciatura#:~:text=Grade%20curricular%20O%20curso%20de%20Hist%C3%B3ria%20da%20Est%C3%A1cio,com%20os%20desafios%20da%20profiss%C3%A3o%20e%20do%20ensino.)
