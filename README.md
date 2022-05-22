@@ -53,3 +53,38 @@
 |99	|MN002	|MOBILIDADE NACIONAL II|	
 |99	|MN003	|MOBILIDADE NACIONAL III|	
 |99	|MN004	|MOBILIDADE NACIONAL IV|
+
+
+## Ciências auxiliares da História
+
+A História possui várias Ciências que fornecem conhecimentos, dados e informações de grande importância para a pesquisa histórica.
+
+### O que são
+
+São Ciências que oferecem informações, dados, conhecimentos e métodos que ajudam os historiadores na compreensão e geração de conhecimentos históricos.
+
+
+### Importância
+
+
+Em muitas pesquisas históricas, os cientistas e estudiosos destas áreas oferecem o apoio necessário para o estudo de um determinado tema ou período histórico.
+
+
+### Exemplos de ciências auxiliares da História:
+
+
+- Arqueologia (estuda a cultura e os costumes dos povos do passado, através de materiais encontrados em escavações).
+- Antropologia (estuda as relações dos grupos humanos, sistemas religiosos, cultura, costumes, características raciais, etc.).
+- Sociologia (estuda a organização e funcionamento das sociedades humanas).
+- História da Arte (estuda as obras de arte, significados, técnicas, movimentos artísticos e as obras dos artistas plásticos).
+- Filosofia (estuda e reflete sobre questões como, por exemplo o conhecimento humano, verdade, significado da vida, moralidade, linguagem, etc.).
+- Psicologia (ciência que estuda o comportamento humano).
+- Estratigrafia (ramo da Geologia que estuda os estratos ou camadas que aparecem num corte geológico).
+- Numismática (estudo de moedas antigas e medalhas).
+- Heráldica (estudo de emblemas e brasões de armas antigos).
+- Paleografia (estudo de textos manuscritos antigos).
+- Paleontologia (ciência que estuda os fósseis, principalmente de eras geológicas passadas).
+- Papirologia (estudo de antigos papiros).
+- Epigrafria (estudo de inscrições antigas em pedra, madeira, metais, argila, etc.)
+- Filatelia (estudo de selos de cartas e cartões postais).
+
